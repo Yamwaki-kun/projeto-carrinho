@@ -1,4 +1,5 @@
 Projeto de um carrinho desenhista, que faz uma espiral
+Nome do grupo= Turminha
 Nome do carrinho = Nave
 Integrantes
 Vinicius-A
@@ -14,6 +15,7 @@ Para a produção do carrinho fois necessário:
 4 motores
 4 caixas de redução
 4 rodas
+Durex
 Muitos parafusos
 Muitos espaçadores
 Muita paciência
