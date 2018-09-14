@@ -1,3 +1,10 @@
+Projeto de um carrinho desenhista, que faz uma espiral
+Nome do carrinho = Nave
+Integrantes
+Vinicius-A
+Murillo Rodrigues-A
+Pedro-A
+Arnaldo-A
 # projeto-carrinho
 Para a produção do carrinho fois necessário:
 1 Arduino UNO
